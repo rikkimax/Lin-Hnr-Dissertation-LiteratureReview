@@ -7,3 +7,5 @@
 3. Thread scheduling, Windows internals fifth edition
 4. Networking APIs, Windows internals fifth edition
 5. Assembly language programming, Graphics programming in C++
+6. Server-centric Web frameworks: an overview, Iwan Vosloo and Derrick G. Kourie, cpit/2014/BCIS381/reports/13/32160558.pdf
+7. AC: Composable Asynchronous IO for Native Languages, Tim Harris and Martin Abadi and Rebecca Isaacs and Ross McIlroy, cpit/2014/BCIS381/reports/17/barrelfish_oopsla11.pdf
