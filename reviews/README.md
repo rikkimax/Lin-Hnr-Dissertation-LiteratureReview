@@ -7,5 +7,8 @@
 3. Thread scheduling, Windows internals fifth edition
     Very indepth description of when and how threads are scheduled to execute
 4. Assembly language programming, Graphics programming in C++
+    Introductory information into x86 assembly for a 32bit cpu in the context of making a Win32 message loop faster during copying of an image.
 5. Server-centric Web frameworks: an overview, Iwan Vosloo and Derrick G. Kourie, cpit/2014/BCIS381/reports/13/32160558.pdf
+    This research paper provides a background into how to analyse web frameworks and its ilk. It gives a good categorisation for requirements of them and how to classify them.
 6. AC: Composable Asynchronous IO for Native Languages, Tim Harris and Martin Abadi and Rebecca Isaacs and Ross McIlroy, cpit/2014/BCIS381/reports/17/barrelfish_oopsla11.pdf
+    The research paper has shown an optimization technique that is capable of getting more performance out of operations by changing how the code is scheduled and then executed.
