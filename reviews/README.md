@@ -12,3 +12,5 @@
     This research paper provides a background into how to analyse web frameworks and its ilk. It gives a good categorisation for requirements of them and how to classify them.
 6. AC: Composable Asynchronous IO for Native Languages, Tim Harris and Martin Abadi and Rebecca Isaacs and Ross McIlroy, cpit/2014/BCIS381/reports/17/barrelfish_oopsla11.pdf
     The research paper has shown an optimization technique that is capable of getting more performance out of operations by changing how the code is scheduled and then executed.
+7. Fast request routing using regular expressions, Nikita Popov, https://nikic.github.io/2014/02/18/Fast-request-routing-using-regular-expressions.html
+8. Managing Routing Disruptions in Internet Service Provider Networks, Renata Teixeira and Jennifer Rexford, https://www.cs.princeton.edu/~jrex/papers/ieeecomm05.pdf
