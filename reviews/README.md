@@ -13,4 +13,8 @@
 6. AC: Composable Asynchronous IO for Native Languages, Tim Harris and Martin Abadi and Rebecca Isaacs and Ross McIlroy, cpit/2014/BCIS381/reports/17/barrelfish_oopsla11.pdf
     The research paper has shown an optimization technique that is capable of getting more performance out of operations by changing how the code is scheduled and then executed.
 7. Fast request routing using regular expressions, Nikita Popov, https://nikic.github.io/2014/02/18/Fast-request-routing-using-regular-expressions.html
+    Performance of routing is defined by the abstraction to which it is implemented within memory not by 
+which the language it is used in.
 8. Managing Routing Disruptions in Internet Service Provider Networks, Renata Teixeira and Jennifer Rexford, https://www.cs.princeton.edu/~jrex/papers/ieeecomm05.pdf
+    Routing systems such as employed with ISPs use a vast network of configurable routers that communicate 
+within and to other networks. The transmission of packets are done via weights to each of the routers.
