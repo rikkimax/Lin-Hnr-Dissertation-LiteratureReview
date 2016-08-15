@@ -18,3 +18,7 @@ which the language it is used in.
 8. Managing Routing Disruptions in Internet Service Provider Networks, Renata Teixeira and Jennifer Rexford, https://www.cs.princeton.edu/~jrex/papers/ieeecomm05.pdf
     Routing systems such as employed with ISPs use a vast network of configurable routers that communicate 
 within and to other networks. The transmission of packets are done via weights to each of the routers.
+9. Engineering a Simple, Efficient Code Generator Generator, CHRISTOPHER W. FRASER, DAVID R. HANSON and TODD 
+A. PROEBSTING, https://drhanson.s3.amazonaws.com/storage/documents/iburg.pdf
+    An introduction to code generator generators that focusses upon assembly being the end goal. Does not 
+cover text parsing.
