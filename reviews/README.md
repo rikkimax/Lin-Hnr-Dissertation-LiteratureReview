@@ -20,5 +20,14 @@ which the language it is used in.
 within and to other networks. The transmission of packets are done via weights to each of the routers.
 9. Engineering a Simple, Efficient Code Generator Generator, CHRISTOPHER W. FRASER, DAVID R. HANSON and TODD 
 A. PROEBSTING, https://drhanson.s3.amazonaws.com/storage/documents/iburg.pdf
-    An introduction to code generator generators that focusses upon assembly being the end goal. Does not 
-cover text parsing.
+    An introduction to code generator generators that focusses upon assembly being the end goal. Does not cover text parsing.
+
+
+* Fast networking with socket-outsourcing in hosted virtual machine environments,	Hideki Eiraku, Yasushi Shinjo, Calton Pu, Younggyun Koh and Kazuhiko Kato,  http://dl.acm.org/citation.cfm?id=1529350
+* Lazy Receiver Processing (LRP): A Network Subsystem
+Architecture for Server Systems, Peter Druschel and Gaurav Banga, http://www.cs.utah.edu/~ppatel/aos/druschel96lazy.pdf
+* Exception-Less System Calls for Event-Driven Servers, Livio Soares and Michael Stumm, http://static.usenix.org/legacy/events/atc11/tech/final_files/Soares.pdf
+* Web server support for tiered services, N. Bhatti, R. Friedrich and Hewlett-Packard Res. Labs., USA, http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=793694&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D793694
+* Adaptive Overload Control for Busy Internet Servers, Matt Welsh and David Culler, http://static.usenix.org/events/usits03/tech/full_papers/welsh/welsh_html/
+* Network algorithmics, George Varghese, http://dl.acm.org/citation.cfm?id=1882751
+* Fastest connection first: A new scheduling policy for web servers, Cristina Duarte Murta and Tarcisio Paulo Corlassoli, http://www.sciencedirect.com/science/article/pii/S1388343703801634
