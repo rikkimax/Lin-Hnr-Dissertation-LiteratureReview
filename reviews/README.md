@@ -23,10 +23,8 @@ A. PROEBSTING, https://drhanson.s3.amazonaws.com/storage/documents/iburg.pdf
     An introduction to code generator generators that focusses upon assembly being the end goal. Does not cover text parsing.
 10. Fast networking with socket-outsourcing in hosted virtual machine environments,	Hideki Eiraku, Yasushi Shinjo, Calton Pu, Younggyun Koh and Kazuhiko Kato,  http://dl.acm.org/citation.cfm?id=1529350
     The norminal form that IP stacks take is very wasteful when it comes to processing of packets between a VM and its host. This paper proposes a way to limit copying and with it significantly cheaper socket IO.
+11. Adaptive Overload Control for Busy Internet Servers, Matt Welsh and David Culler, http://static.usenix.org/events/usits03/tech/full_papers/welsh/welsh_html/
+    Introduces a new architecture in processing of socket connections that allows for degradation of service in a predictable form.
 
-
-* Exception-Less System Calls for Event-Driven Servers, Livio Soares and Michael Stumm, http://static.usenix.org/legacy/events/atc11/tech/final_files/Soares.pdf
-* Web server support for tiered services, N. Bhatti, R. Friedrich and Hewlett-Packard Res. Labs., USA, http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=793694&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D793694
-* Adaptive Overload Control for Busy Internet Servers, Matt Welsh and David Culler, http://static.usenix.org/events/usits03/tech/full_papers/welsh/welsh_html/
 * Network algorithmics, George Varghese, http://dl.acm.org/citation.cfm?id=1882751
 * Fastest connection first: A new scheduling policy for web servers, Cristina Duarte Murta and Tarcisio Paulo Corlassoli, http://www.sciencedirect.com/science/article/pii/S1388343703801634
