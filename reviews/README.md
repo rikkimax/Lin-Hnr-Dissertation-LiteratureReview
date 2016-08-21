@@ -25,6 +25,3 @@ A. PROEBSTING, https://drhanson.s3.amazonaws.com/storage/documents/iburg.pdf
     The norminal form that IP stacks take is very wasteful when it comes to processing of packets between a VM and its host. This paper proposes a way to limit copying and with it significantly cheaper socket IO.
 11. Adaptive Overload Control for Busy Internet Servers, Matt Welsh and David Culler, http://static.usenix.org/events/usits03/tech/full_papers/welsh/welsh_html/
     Introduces a new architecture in processing of socket connections that allows for degradation of service in a predictable form.
-
-* Network algorithmics, George Varghese, http://dl.acm.org/citation.cfm?id=1882751
-* Fastest connection first: A new scheduling policy for web servers, Cristina Duarte Murta and Tarcisio Paulo Corlassoli, http://www.sciencedirect.com/science/article/pii/S1388343703801634
