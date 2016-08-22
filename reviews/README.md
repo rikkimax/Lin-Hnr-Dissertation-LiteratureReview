@@ -25,3 +25,7 @@ A. PROEBSTING, https://drhanson.s3.amazonaws.com/storage/documents/iburg.pdf
     The norminal form that IP stacks take is very wasteful when it comes to processing of packets between a VM and its host. This paper proposes a way to limit copying and with it significantly cheaper socket IO.
 11. Adaptive Overload Control for Busy Internet Servers, Matt Welsh and David Culler, http://static.usenix.org/events/usits03/tech/full_papers/welsh/welsh_html/
     Introduces a new architecture in processing of socket connections that allows for degradation of service in a predictable form.
+12. Modeling Request Routing in Web Applications, Minmin Han and Chrsitine Hofmeister, 
+http://dx.doi.org/10.1109/WSE.2006.14
+    Web applications are getting quite large and as such there needs to be a way to document the routing 
+process that goes on inside of it.
