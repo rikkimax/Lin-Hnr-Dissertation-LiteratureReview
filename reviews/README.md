@@ -29,3 +29,17 @@ A. PROEBSTING, https://drhanson.s3.amazonaws.com/storage/documents/iburg.pdf
 http://dx.doi.org/10.1109/WSE.2006.14
     Web applications are getting quite large and as such there needs to be a way to document the routing 
 process that goes on inside of it.
+13. Architecture of a Web server accelerator, Junehwa Song, Arun Iyengar, Eric Levy-Abegnoli1 and Daniel 
+Dias, http://www.sciencedirect.com.ezproxy.lincoln.ac.nz/science/article/pii/S1389128601002419
+    By using a web server accelerator paired with a TCP/IP stack that is designed for low memory movement a 
+web page set of requests can be optimized to be significantly faster for both static and dynamic content.
+14. Distributed 
+cooperative Web 
+servers, Scott M. 
+Baker and Bongki 
+Moon, http://www.sciencedirect.com.ezproxy.lincoln.ac.nz/science/article/pii/S1389128699000110
+    Introduces rewriting of contents links to other content to isolate to specific servers. Allowing for 
+movement within a server graph to increase ability to serve larger web sites.
+15. Optimizing Web servers using Page rank prefetching for clustered accesses, Victor Safronov and Manish Parahsar, http://www.sciencedirect.com.ezproxy.lincoln.ac.nz/science/article/pii/S0020025502003754
+    Based upon the usage of page rank algorithm for each request determines what content should be loaded 
+ready for transfer to client and in doing so significantly improve performance of requests.
