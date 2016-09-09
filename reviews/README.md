@@ -33,11 +33,7 @@ process that goes on inside of it.
 Dias, http://www.sciencedirect.com.ezproxy.lincoln.ac.nz/science/article/pii/S1389128601002419
     By using a web server accelerator paired with a TCP/IP stack that is designed for low memory movement a 
 web page set of requests can be optimized to be significantly faster for both static and dynamic content.
-14. Distributed 
-cooperative Web 
-servers, Scott M. 
-Baker and Bongki 
-Moon, http://www.sciencedirect.com.ezproxy.lincoln.ac.nz/science/article/pii/S1389128699000110
+14. Distributed cooperative Web servers, Scott M. Baker and Bongki Moon, http://www.sciencedirect.com.ezproxy.lincoln.ac.nz/science/article/pii/S1389128699000110
     Introduces rewriting of contents links to other content to isolate to specific servers. Allowing for 
 movement within a server graph to increase ability to serve larger web sites.
 15. Optimizing Web servers using Page rank prefetching for clustered accesses, Victor Safronov and Manish Parahsar, http://www.sciencedirect.com.ezproxy.lincoln.ac.nz/science/article/pii/S0020025502003754
