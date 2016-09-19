@@ -40,4 +40,6 @@ movement within a server graph to increase ability to serve larger web sites.
     Based upon the usage of page rank algorithm for each request determines what content should be loaded 
 ready for transfer to client and in doing so significantly improve performance of requests.
 
-FB+-tree for Big Data Management, Cui Yu and Josef Boyd, http://www.sciencedirect.com.ezproxy.lincoln.ac.nz/science/article/pii/S2214579615000635
+* FB+-tree for Big Data Management, Cui Yu and Josef Boyd, http://www.sciencedirect.com.ezproxy.lincoln.ac.nz/science/article/pii/S2214579615000635
+* Cache Conscious Indexing for Decision-Support in Main Memory, Jun Rao and Kenneth A. Ross, http://www.vldb.org/conf/1999/P7.pdf
+* Making B+- trees cache conscious in main memory, Jun Rao and Kenneth A. Ross, http://dl.acm.org/citation.cfm?id=335449
